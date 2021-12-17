@@ -1,0 +1,1 @@
+newman run https://api.getpostman.com/collections/884193f4-3045-4e37-878b-ff997cdcecd3?apikey=PMAK-61bcc70b2e987400527be920-c47366cd6df50e500a882ac59511354ad9
